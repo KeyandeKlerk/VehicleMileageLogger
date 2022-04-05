@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601391571862",
+    "project_id": "vehiclemileagelogger",
+    "storage_bucket": "vehiclemileagelogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601391571862:android:af896d7cb5171203fef3b7",
+        "android_client_info": {
+          "package_name": "com.deKlerk.VehicleMilageTracker.vehicle_log_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601391571862-uq2eqmm9l1sj70cvjc0u3601rnqkv16u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDAkc4W1ixjg82mqND6k0VMjE4GPZwNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601391571862-uq2eqmm9l1sj70cvjc0u3601rnqkv16u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
